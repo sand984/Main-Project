@@ -12,7 +12,7 @@ a {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(/photo-1590579491624-f98f36d4c763.avif);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(photo-1590579491624-f98f36d4c763.avif);
     position: fixed;
     background-position: center;
     background-size: cover;
